@@ -1,1 +1,1 @@
-# ImageGrabber needs a folder in the same directory named "SEARCH_IMAGES" and you're all set. From a single search query you will only get 19 images. But in the future I will try to make this amount larger
+# ImageGrabber needs a folder in the same directory named "SEARCH_IMAGES" and you're all set. From a single search query you will only get 20 images. But in the future I will try to make this amount larger
