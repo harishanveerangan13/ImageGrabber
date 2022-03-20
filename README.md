@@ -1,1 +1,1 @@
-# ImageGrabber needs a folder in the same directory named "SEARCH_IMAGES" and you're all set. From a single search query you will only get 20 images. But in the future I will try to make this amount larger
+# ImageGrabber needs a folder in the same directory named "SEARCH_IMAGES" and you're all set. From a single search query you will only get 20 images. But in the future I will try to make this amount larger. Also, this program will usually display low resolution images of the actual images requested. Some advice would be appreciated for this part of the project!
